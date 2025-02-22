@@ -1,0 +1,1 @@
+Every environment is different, so the only things you need to change is the `path to VMware, vmrun.exe, and paths to VMs in $vmList`. Read a more in-depth explanation of these scripts on my website:  https://markoynchausti.com/automating-vm-management
